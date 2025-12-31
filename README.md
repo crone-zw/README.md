@@ -83,7 +83,7 @@ I’m a **professional backend & web engineer** focused on **dark-mode systems**
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=crone-zw&theme=tokyo-night&hide_border=true" />
 </p>
 
-> 🔁 Replace `YOUR_GITHUB_USERNAME` once — stats auto-update forever.
+
 
 ---
 
